@@ -1,0 +1,12 @@
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\bin\Debug\Proyecto Axel.exe.config
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\bin\Debug\Proyecto Axel.exe
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\bin\Debug\Proyecto Axel.pdb
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\obj\Debug\Proyecto Axel.csprojResolveAssemblyReference.cache
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\obj\Debug\Proyecto_Axel.Cliente.resources
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\obj\Debug\Proyecto_Axel.Properties.Resources.resources
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\obj\Debug\Proyecto Axel.csproj.GenerateResource.cache
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\obj\Debug\Proyecto Axel.csproj.CoreCompileInputs.cache
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\obj\Debug\Proyecto Axel.csproj.CopyComplete
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\obj\Debug\Proyecto Axel.exe
+C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel\Proyecto Axel\obj\Debug\Proyecto Axel.pdb
