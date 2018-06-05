@@ -43,9 +43,15 @@ namespace Proyecto_Axel_Servidor
         public void recibirImagen() {
             BinaryFormatter formatoBinario = new BinaryFormatter();
             while (cliente.Connected) {
-                mainStream = cliente.GetStream();
-                Pantalla.Image = (Image)formatoBinario.Deserialize(mainStream);
-
+                try
+                {
+                    mainStream = cliente.GetStream();
+                    Pantalla.Image = (Image)formatoBinario.Deserialize(mainStream);
+                }
+                catch (Exception) {
+               MessageBox.Show("Conexión fallida,se cerro el cliente de forma inesperada. ", "Error",
+               MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
+                }
             }
         }
 

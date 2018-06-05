@@ -120,10 +120,10 @@
             this.CompartirButton.IdleFillColor = System.Drawing.Color.Black;
             this.CompartirButton.IdleForecolor = System.Drawing.Color.SeaGreen;
             this.CompartirButton.IdleLineColor = System.Drawing.Color.SeaGreen;
-            this.CompartirButton.Location = new System.Drawing.Point(143, 64);
+            this.CompartirButton.Location = new System.Drawing.Point(132, 64);
             this.CompartirButton.Margin = new System.Windows.Forms.Padding(5);
             this.CompartirButton.Name = "CompartirButton";
-            this.CompartirButton.Size = new System.Drawing.Size(183, 39);
+            this.CompartirButton.Size = new System.Drawing.Size(220, 39);
             this.CompartirButton.TabIndex = 5;
             this.CompartirButton.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             this.CompartirButton.Visible = false;

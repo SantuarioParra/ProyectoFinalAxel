@@ -49,7 +49,7 @@ namespace Proyecto_Axel
             }
             catch (Exception ex) {
                 Console.WriteLine(ex.StackTrace);
-                MessageBox.Show("Conexión fallida, algo ocurrio:\n " , "Error",
+                MessageBox.Show("Conexión fallida, algo ocurrio " , "Error",
                 MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
             }
         }
@@ -59,7 +59,7 @@ namespace Proyecto_Axel
             if (CompartirButton.ButtonText.StartsWith("Transmitir"))
             {
                 Reloj.Start();
-                CompartirButton.ButtonText = "Dejar de Transmitir Pantalla";
+                CompartirButton.ButtonText = "Dejar de Transmitir";
             }
             else {
                 Reloj.Stop();

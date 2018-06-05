@@ -11,3 +11,16 @@ C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel-Ser
 C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto Axel-Servidor.csproj.CopyComplete
 C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto Axel-Servidor.exe
 C:\Users\Shado\OneDrive\Documentos\Visual Studio 2017\Proyects\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto Axel-Servidor.pdb
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\bin\Debug\Proyecto Axel-Servidor.exe.config
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\bin\Debug\Proyecto Axel-Servidor.exe
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\bin\Debug\Proyecto Axel-Servidor.pdb
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto Axel-Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto_Axel_Servidor.Servidor1.resources
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto_Axel_Servidor.Properties.Resources.resources
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto_Axel_Servidor.Servidor2.resources
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto Axel-Servidor.csproj.GenerateResource.cache
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto Axel-Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto Axel-Servidor.csproj.CopyComplete
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto Axel-Servidor.exe
+C:\Users\Shado\Documents\Visual Studio 2017\Projects\ProyectoFinalAxel\Proyecto Axel-Servidor\Proyecto Axel-Servidor\obj\Debug\Proyecto Axel-Servidor.pdb
